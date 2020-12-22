@@ -1,0 +1,29 @@
+# ¿Como Trabaja?
+
+## Posiciones
+
+[Diccionario de datos]
+
+[Customer Care]
+
+[Git Administrator]
+
+## Recursos
+
+[Herramientas de trabajo]
+
+## Procesos
+
+[Generación de Versión]
+
+## Tradiciones
+
+[Reuniones]
+
+---
+
+### Migración e Implementares
+
+[Migración Consorcio WV]
+
+### Tips
