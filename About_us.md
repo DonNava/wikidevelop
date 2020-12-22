@@ -14,7 +14,7 @@
 
 ## Procesos
 
-[Generación de Versión]
+[Generación de Versión](https://github.com/NaarVader/wikidevelop/blob/main/wiki/newVersion.md)
 
 ## Tradiciones
 
