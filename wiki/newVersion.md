@@ -17,16 +17,16 @@
     - De Master Generamos 2 ramas: Release(N) y Version(N)
     - Registramos cambios en bitácora de Fusiones
 
-        [https://1drv.ms/x/s!AnvMBLwTQe4Gf1wWKMTf4FgNAA8?e=XVun4D](https://1drv.ms/x/s!AnvMBLwTQe4Gf1wWKMTf4FgNAA8?e=XVun4D)
+        [https://1drv.ms/x/s!AnvMBLwTQe4Gf1wWKMTf4FgNAA8?e=XVun4D]
 
 - 8)Se generan Dll´s de la rama Release(N) - Gerente
 - 9)Registramos cambio en Bitácora de Generaciones - Gerente
 
-    [https://1drv.ms/x/s!AnvMBLwTQe4Gf1wWKMTf4FgNAA8?e=XVun4D](https://1drv.ms/x/s!AnvMBLwTQe4Gf1wWKMTf4FgNAA8?e=XVun4D)
+    [https://1drv.ms/x/s!AnvMBLwTQe4Gf1wWKMTf4FgNAA8?e=XVun4D]
 
 - 10)Se Notifica a TI para su entrega a soporte -Gerente
 
-[Re-trabajos](https://www.notion.so/Re-trabajos-faa787b779f0427c89e7986098d5ea76)
+[Re-trabajos]
 
 - 11)Se Notifica a Equipo de desarrollo para la sincronizacion de las nuevas ramas y eliminación de las anteriores. - Gerente.
 - 12)Volvemos a empezar.
